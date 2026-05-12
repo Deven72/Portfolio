@@ -70,10 +70,17 @@ export default function App() {
 
         <div className="bg-white/5 border border-white/10 backdrop-blur-xl rounded-3xl p-8 shadow-2xl">
           <p className="text-gray-300 text-lg leading-8">
-            I am a passionate Computer Science Engineering student with interests
-            in Web Development, IoT, Smart Home Automation, AI tools, and
-            futuristic technologies. I enjoy creating modern digital experiences
-            and innovative technical projects.
+            I am a passionate and dedicated Computer Science Engineering 
+            student with skills in web development, Python programming, 
+            data science, and creative digital work. I enjoy learning new 
+            technologies and creating practical solutions through coding 
+            and design. I have experience working on projects related to 
+            IoT, smart home automation, and website development. I am a 
+            hardworking, detail-oriented, and quick learner who believes 
+            in delivering quality work on time. I always focus on clear 
+            communication, client satisfaction, and continuous improvement. 
+            Along with technical skills, I also have creative abilities in 
+            Canva designing, content editing, and digital presentations.
           </p>
         </div>
       </section>
