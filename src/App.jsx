@@ -1,3 +1,4 @@
+import profile from "./assets/profile.jpg";
 import React from "react";
 
 export default function App() {
@@ -24,10 +25,11 @@ export default function App() {
 
       {/* Hero */}
       <section className="flex flex-col items-center justify-center text-center min-h-screen px-6">
-        <div className="w-40 h-40 rounded-full border-4 border-cyan-400 bg-white/10 backdrop-blur-md flex items-center justify-center text-sm text-gray-300">
-          Add Your Photo
-        </div>
-
+        <img
+            src={profile}
+            alt="Devendra"
+            className="w-40 h-40 rounded-full border-4 border-cyan-400 object-cover shadow-2xl"
+            />
         <h1 className="text-5xl md:text-7xl font-extrabold mt-8 bg-gradient-to-r from-cyan-400 to-fuchsia-500 text-transparent bg-clip-text">
           Devendra Kumar Kewat
         </h1>
