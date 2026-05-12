@@ -127,7 +127,8 @@ export default function App() {
             {
               title: "PDF Editing Tool Website",
               desc: "Modern PDF 29+ Editing tools website.",
-              window.location.href = "https://www.pdfmagic.co.in/";
+              link: "https://www.pdfmagic.co.in/", 
+            
             },
             {
               title: "IoT Projects",
