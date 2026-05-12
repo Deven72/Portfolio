@@ -141,6 +141,14 @@ export default function App() {
             >
               <h3 className="text-2xl font-bold mb-4">{project.title}</h3>
               <p className="text-gray-300">{project.desc}</p>
+              <a
+                href={project.link}
+                target="_blank"
+                rel="noreferrer"
+                className="inline-block px-5 py-2 bg-cyan-500 rounded-xl hover:bg-cyan-600 transition"
+                >
+                View Project
+                </a>
             </div>
           ))}
         </div>
