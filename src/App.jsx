@@ -125,8 +125,9 @@ export default function App() {
               desc: "Responsive notes sharing platform with animated UI.",
             },
             {
-              title: "Portfolio Website",
-              desc: "Modern futuristic animated portfolio website.",
+              title: "PDF Editing Tool Website",
+              desc: "Modern PDF 29+ Editing tools website.",
+              window.location.href = "https://www.pdfmagic.co.in/";
             },
             {
               title: "IoT Projects",
